@@ -1,0 +1,1 @@
+This folder contains some more folders housing some files around most of my myriad projects.
